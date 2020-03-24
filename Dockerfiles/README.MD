@@ -1,1 +1,1 @@
-# Learn hoe to write dockerfile
+# Learn how to write dockerfile
